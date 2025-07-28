@@ -9,3 +9,9 @@ A subdirectory will be created for each unique scheduling block using the inform
 The slurm script is set to a 72 hour run by default on a single node, and will check for partial downloads. Status will be returned as a log file showing which observation is being downloaded. Incomplete downloads can be resumed. 
 
 The slurm script is NOT designed for interactive mode and so there is no tqdm status bar, but this can be added to the python script if you really want it for some reason.
+
+## Astropy
+Code snippets for demixing, sky coverage and prediction for SKA-LOW and other telescopes
+
+## Cross-Matching
+General code for basic cross-matching, deduplication, and catalogue manipulation -- starting with basic CSV filtering and moving up to specific cases (TBD). Ultimately aiming to become suitable for a range of telescopes, frequencies and fields wherever necessary. 
