@@ -15,3 +15,7 @@ Code snippets for demixing, sky coverage and prediction for SKA-LOW and other te
 
 ## Cross-Matching
 General code for basic cross-matching, deduplication, and catalogue manipulation -- starting with basic CSV filtering and moving up to specific cases (TBD). Ultimately aiming to become suitable for a range of telescopes, frequencies and fields wherever necessary. 
+
+## HPC
+
+Random things that seemed useful at the time.
