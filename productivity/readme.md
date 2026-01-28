@@ -10,6 +10,6 @@ This script automatically corrects capital letters and spacing around new senten
 
 `murmur2page.py` takes a raw unedited input.txt and produces output.txt. 
 
-# pay_check
+## pay_check
 
 Simple sanity-checking linear regression for confirming stated vs actual hourly rates for freelancers, to easily highlight hidden penalties and weird behaviour, and provide evidence for further action if necessary.
